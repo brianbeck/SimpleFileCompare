@@ -1,0 +1,6 @@
+# Core dependencies
+# No external dependencies for basic functionality
+
+# Database support (optional)
+mysql-connector-python>=8.0.26  # For MariaDB support
+psycopg2-binary>=2.9.1  # For PostgreSQL support 
